@@ -1,0 +1,30 @@
+_repo: The-Drummer-Boy_19999
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 19999-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Trowbridge, J. T. (John Townsend)
+    aliases:
+    - Trowbridge, John Townsend
+    - Trowbridge, J.T.
+    birthdate: 1827
+    deathdate: 1916
+    gutenberg_agent_id: '9020'
+    url: http://www.gutenberg.org/2009/agents/9020
+    wikipedia: http://en.wikipedia.org/wiki/John_Townsend_Trowbridge
+description: ''
+gutenberg_issued: '2006-12-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19999'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Juvenile fiction'
+- !lcc 'PZ'
+title: The Drummer Boy
+url: http://www.gutenberg.org/ebooks/19999
